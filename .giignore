@@ -1,0 +1,6 @@
+/.venv
+hexlet_pytest/__pycache__
+tests/__pycache__
+tests/.pytest_cache
+/.pytest_cache
+*.pyc
